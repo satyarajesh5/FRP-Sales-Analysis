@@ -1,6 +1,6 @@
 # 📊 LEP FRP PRODUCTS - Sales Performance Analysis
 
-This project presents a comprehensive **sales performance analysis** for **LEP FRP PRODUCTS**, a manufacturer of FRP manhole covers, gratings, and security cabins. The insights are delivered via an interactive **Power BI dashboard** using 3 years of historical sales and invoice data.
+This project presents a comprehensive **sales performance analysis** for **FRP PRODUCTS**, a manufacturer of FRP manhole covers, gratings, and security cabins. The insights are delivered via an interactive **Power BI dashboard** using 3 years of historical sales and invoice data.
 
 ---
 
